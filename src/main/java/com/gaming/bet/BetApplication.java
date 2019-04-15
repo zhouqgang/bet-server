@@ -8,6 +8,7 @@ public class BetApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BetApplication.class, args);
+        System.out.println("test");
     }
 
 }
